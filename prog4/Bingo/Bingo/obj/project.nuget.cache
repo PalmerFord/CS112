@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kc0uE3K8um2G0by037T1eiAfNPTWeuIGn9MxR81nZgOLZmGVMZNn4vL/7XoOy3dCFN0H/jPZXvb4yQs7dnwF9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive - Calvin University\\cs212\\prog4\\Bingo\\Bingo\\Bingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
